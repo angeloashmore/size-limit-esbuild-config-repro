@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^8.0.0",
+    "size-limit": "^8.0.0"
+  }
+}
